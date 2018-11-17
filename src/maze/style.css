@@ -1,0 +1,17 @@
+.maze {
+    background: floralwhite;
+    display: flex;
+    width: 140px;
+    flex-wrap: wrap;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+}
+
+.wall {
+    width: 20px;
+    height: 20px;
+    background: black;
+}
