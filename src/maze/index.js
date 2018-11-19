@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './style.css';
 
-// За основу взяла статья https://habr.com/post/262345/
+// За основу взята статья https://habr.com/post/262345/
 
 class Maze extends Component {
 	static defaultProps = {};
